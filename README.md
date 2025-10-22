@@ -15,6 +15,4 @@ NBA_Prediction_Model/
 │-- scripts/
 │   ├── PredictionSimulator.py
 │-- README.md
-│-- results/
-│   ├── rf_model.pkl
 ```
