@@ -4,6 +4,7 @@ This machine learning project predicts outcomes of NBA games using team and perf
 # Overview
 The NBA_Prediction_Model uses historical NBA data to estimate gmae outcomes. Built in python, this model uses a Random Forest Classifier to identify the most important features that influence game results.
 
+# Repository Structure
 ```
 NBA_Prediction_Model/
 │-- data/
