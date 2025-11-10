@@ -13,6 +13,8 @@ NBA_Prediction_Model/
 │-- notebooks/
 │   ├── Preprocessing.ipynb
 │   ├── RF_Model.ipynb
+│   ├── KNN_Model.ipynb
+│   ├── XGBoost_Model.ipynb
 │-- scripts/
 │   ├── PredictionSimulator.py
 │-- README.md
