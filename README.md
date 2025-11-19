@@ -8,7 +8,8 @@ The NBA_Prediction_Model uses historical NBA data to estimate gmae outcomes. Bui
 1) Navigate to the home page of repository and click Code, Download Zip.
 2) Extract that Zip file and load into IDE of choice
 3) Open terminal in IDE and pip install the following libraries if not already installed: pandas, numpy, os, scikit-learn, joblib, xgboost
-4) You are all set to play around with the prediction simulator now! 
+4) Make sure the python Kernel is up to date (3.11 or newer)
+5) You are all set to play around with the prediction simulator now! 
 
 # Repository Structure
 ```
