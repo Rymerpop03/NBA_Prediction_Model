@@ -25,4 +25,5 @@ NBA_Prediction_Model/
 │-- scripts/
 │   ├── PredictionSimulator.py
 │-- README.md
+│-- ResearchPaper.pdf
 ```
